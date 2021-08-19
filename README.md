@@ -7,4 +7,5 @@ Listed below are the repositories of some of my most recent projects which showc
 <a href="https://github.com/nahme6/IFB104-Tessellation-Assignment"><li>Tessellation Assignment (Python)</li></a>
 <a href="https://github.com/nahme6/Spaceship-REST-API"><li>REST API (TypeScript/Node.js)</li></a>
 <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
+<a href="https://github.com/nahme6/Electronic-Asset-Trading-Platform"><li>Electronic-Asset-Trading-Platform (Java)</li></a>
 </ul>
