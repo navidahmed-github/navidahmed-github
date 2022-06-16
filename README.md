@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as developer.
+
+Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer. 
+React Native Project Coming Soon!
+Available for freelance projects!
+Business Enquires: https://www.linkedin.com/in/navidnorahmed
 
 <ul>
 <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
@@ -9,3 +13,5 @@ Listed below are the repositories of some of my most recent projects which showc
 <a href="https://github.com/nahme6/Spaceship-REST-API"><li>REST API (TypeScript/Node)</li></a>
 <a href="https://github.com/nahme6/Electronic-Asset-Trading-Platform"><li>Electronic Asset Trading Platform (Java/JavaScript)</li></a>
 </ul>
+
+Other Enquires:
