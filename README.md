@@ -4,7 +4,7 @@
 Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer. <br />
  - React Native Project Coming Soon! <br />
  - Available for freelance projects! <br />
-Business Enquires: https://www.linkedin.com/in/navidnorahmed
+    - Business Enquires: https://www.linkedin.com/in/navidnorahmed
 
 <ul>
 <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
