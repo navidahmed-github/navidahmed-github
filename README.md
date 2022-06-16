@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer. 
+Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer. <br />
 React Native Project Coming Soon! <br />
 Available for freelance projects! <br />
 Business Enquires: https://www.linkedin.com/in/navidnorahmed
