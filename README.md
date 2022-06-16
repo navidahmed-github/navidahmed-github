@@ -1,5 +1,5 @@
 ### Hi There! 👋
-<p> My Nav and I love coding. I currently primarily code in React Native but always looking to learn something new! </p>
+<p> My name is Nav and I love coding. I currently primarily code in React Native but always looking to learn something new! Feel free to reach out directly or <a href="https://linktr.ee/navidahmed?utm_source=linktree_profile_share&ltsid=b6ee25ae-24a1-4837-9f5d-332f07bdf277"> via here</a> </p>
 
 <div>
   <strong> React Native Project Coming Soon!<strong/><br />
@@ -19,4 +19,4 @@ Listed below are the repositories of some of my most recent projects which showc
 <a href="https://github.com/nahme6/Electronic-Asset-Trading-Platform"><li>Electronic Asset Trading Platform (Java/JavaScript)</li></a>
 </ul>
 
-Other Enquires:
+Enquires:
