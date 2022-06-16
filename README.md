@@ -3,9 +3,7 @@
 
 <div>
   <strong> React Native Project Coming Soon!<strong/><br />
-    <h1> href="">Available for freelance projects!</h1> <br />
-   <p>Hire Me!
-    <a>ref="https://www.linkedin.com/in/navidnorahmed"</a>
+    <h1>>Available for freelance projects!</h1>
    </p>
    
    </p>
