@@ -1,8 +1,9 @@
 ### Hi there 👋
 
  <strong> React Native Project Coming Soon! <strong/><br />
- <h1> Available for freelance projects!</h2> <br />
-    - Business Enquires: https://www.linkedin.com/in/navidnorahmed
+ <h1> Click Me: 
+  <a href="https://www.linkedin.com/in/navidnorahmed">Available for freelance projects!</a>
+  </h1> <br />
 
 Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer: <br />
 <ul>
