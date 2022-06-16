@@ -3,14 +3,14 @@
 
 <div>
   <strong> React Native Project Coming Soon!<strong/><br />
-    <h1>Available for freelance projects!</h1>
+    <h1>Available for Freelance Projects!</h1>
     <a href="https://www.linkedin.com/in/navidnorahmed/"> Hire Me! </a>
    </p>
    
    </p>
  </div>
 
-Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a freelance full stack developer: <br />
+Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Freelance Full Stack Developer: <br />
 <ul>
 <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
 <a href="https://github.com/nahme6/Tools-Library-Application-Software"><li>Tools Library Application Software (C#)</li></a>
