@@ -1,6 +1,6 @@
 ### Hi There! 👋
 <p> My name is <strong> Nav! </strong> </br>
-<di> I'm a Full Stack Software Engineer available for <a href="https://www.linkedin.com/in/navidnorahmed/"> freelance hire </a>. Currently primarily code in React Native but always looking to learn something new. Feel free to reach out directly or <a href="https://linktr.ee/navidahmed?utm_source=linktree_profile_share&ltsid=b6ee25ae-24a1-4837-9f5d-332f07bdf277"> via here!</a></di>
+<di> I'm a Full Stack Software Engineer available for <a href="https://www.linkedin.com/in/navidnorahmed/"> freelance hire. </a> Currently primarily code in React Native but always looking to learn something new. Feel free to reach out directly or <a href="https://linktr.ee/navidahmed?utm_source=linktree_profile_share&ltsid=b6ee25ae-24a1-4837-9f5d-332f07bdf277"> via here!</a></di>
 
 <div>
   <strong> React Native Project Coming Soon!<strong/><br />
