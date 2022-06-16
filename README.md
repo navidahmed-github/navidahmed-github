@@ -1,5 +1,5 @@
 ### Hi There! 👋
-
+<p> My Nav and I love coding. I currently primarily code in React Native but always looking to learn something new! </p>
 
 <div>
   <strong> React Native Project Coming Soon!<strong/><br />
