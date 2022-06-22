@@ -1,5 +1,5 @@
 ### Hi There! 👋
-<p> My name is <strong> Nav! </strong> </br>
+<p> My name is <strong> Nav! </strong></p>
 <di> I'm a Full Stack Software Engineer available for <a href="https://www.linkedin.com/in/navidnorahmed/"> freelance hire. </a> Currently primarily code in React Native but always looking to learn something new. Feel free to reach out directly or <a href="https://linktr.ee/navidahmed?utm_source=linktree_profile_share&ltsid=b6ee25ae-24a1-4837-9f5d-332f07bdf277"> via here!</a></di>
 
 <div>
