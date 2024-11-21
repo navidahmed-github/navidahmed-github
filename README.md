@@ -7,7 +7,7 @@
     <h1>Available for Freelance Projects!</h1>
     <h3><a href="https://www.linkedin.com/in/navidnorahmed/"> Hire Me! </a></h3>
 
-Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Freelance Full Stack Developer: <br />
+Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Full Stack Software Engineer: <br />
 <ul>
   <a href="https://github.com/navidahmed-github/car-auctions"><li>Car Auctions (React)</li></a>
   <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
