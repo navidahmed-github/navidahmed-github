@@ -1,6 +1,6 @@
 ### Hi There! 👋
 <p> My name is <strong> Nav! </strong></p>
-<di> I'm a Full Stack Software & Data Engineer . Currently primarily coding in React.js, .NET and using Azure Synapse but always looking to learn something new.</di>
+<di> I'm a Full Stack Software & Data Engineer. Currently primarily coding in React.js, .NET and using Azure Synapse but always looking to learn something new.</di>
 <br />
 <br />
   <strong> <a href="https://github.com/navidahmed-github/car-auctions">New React Project!</a><strong/><br />
