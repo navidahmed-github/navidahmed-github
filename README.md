@@ -3,8 +3,9 @@
 <di> I'm a Full Stack Software & Data Engineer. Currently primarily coding in React.js, .NET and using Azure Synapse but always looking to learn something new.</di>
 <br />
 <br />
+<h3><a href="https://www.linkedin.com/in/navidnorahmed/"> LinkedIn </a></h3>
   <strong> <a href="https://github.com/navidahmed-github/transpire-wealth-voice-ai">New AI Project</a><strong/><br />
-    <h3><a href="https://www.linkedin.com/in/navidnorahmed/"> LinkedIn </a></h3>
+    
 
 Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Full Stack Software Engineer: <br />
 <ul>
