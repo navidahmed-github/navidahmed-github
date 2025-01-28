@@ -1,19 +1,26 @@
-### Hi There! 👋
-<p> My name is <strong> Nav! </strong></p>
-<di> I'm a Full Stack Software & Data Engineer. Currently primarily coding in React.js, .NET and using Azure Synapse but always looking to learn something new.</di>
-<br />
-<h3><a href="https://www.linkedin.com/in/navidnorahmed/"> Connect with me on LinkedIn </a></h3>
-  <strong> <a href="https://github.com/navidahmed-github/transpire-wealth-voice-ai">New AI Project</a><strong/><br />
-<br />  
+# Hi There! 👋  
 
-Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Full Stack Software Engineer: <br />
-<ul>
-  <a href="https://github.com/navidahmed-github/transpire-wealth-voice-ai"><li>Transpire Wealth Voice AI</li></a>
-  <a href="https://github.com/navidahmed-github/wlth-pay-lite"><li>WLTH Pay Lite</li></a>
-  <a href="https://github.com/navidahmed-github/car-auctions"><li>Car Auctions (React)</li></a>
-  <a href="https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind"><li>Automatic Sunlight Detection Window Blind (C)</li></a>
-  <a href="https://github.com/nahme6/Spaceship-REST-API"><li>REST API (TypeScript/Node)</li></a>
-  <a href="https://github.com/nahme6/IFB104-Tessellation-Assignment"><li>Tessellation (Python)</li></a>
-  <a href="https://github.com/nahme6/Electronic-Asset-Trading-Platform"><li>Electronic Asset Trading Platform (Java/JavaScript)</li></a>
-  <a href="https://github.com/nahme6/Tools-Library-Application-Software"><li>Tools Library Application Software (C#)</li></a>
-</ul>
+**My name is Nav!**  
+I’m a **Full Stack Software & Data Engineer**, currently coding primarily in **React.js**, **.NET**, and working with **Azure Synapse**. I’m always eager to learn new technologies and expand my skill set.  
+
+---
+
+## 🌐 Let's Connect  
+- 💼 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/navidnorahmed/)  
+- 🤖 [**Check out my new AI project**](https://github.com/navidahmed-github/transpire-wealth-voice-ai)  
+
+---
+
+## 🚀 Featured Projects  
+Below are some of my recent projects, showcasing my growing expertise as a Full Stack Software Engineer:  
+
+- [**Transpire Wealth Voice AI**](https://github.com/navidahmed-github/transpire-wealth-voice-ai)  
+- [**WLTH Pay Lite**](https://github.com/navidahmed-github/wlth-pay-lite)  
+- [**Car Auctions (React)**](https://github.com/navidahmed-github/car-auctions)  
+- [**Automatic Sunlight Detection Window Blind (C)**](https://github.com/nahme6/Automatic-Sunlight-Detection-Window-Blind)  
+- [**REST API (TypeScript/Node)**](https://github.com/nahme6/Spaceship-REST-API)  
+- [**Tessellation (Python)**](https://github.com/nahme6/IFB104-Tessellation-Assignment)  
+- [**Electronic Asset Trading Platform (Java/JavaScript)**](https://github.com/nahme6/Electronic-Asset-Trading-Platform)  
+- [**Tools Library Application Software (C#)**](https://github.com/nahme6/Tools-Library-Application-Software)  
+
+Feel free to explore these repositories to see my work in action!  
