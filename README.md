@@ -4,7 +4,7 @@
 <br />
 <h3><a href="https://www.linkedin.com/in/navidnorahmed/"> View my LinkedIn </a></h3>
   <strong> <a href="https://github.com/navidahmed-github/transpire-wealth-voice-ai">New AI Project</a><strong/><br />
-    
+<br />  
 
 Listed below are the repositories of some of my most recent projects which showcase my evergrowing ability as a Full Stack Software Engineer: <br />
 <ul>
