@@ -1,7 +1,7 @@
 # Hi There! 👋  
 
 **My name is Nav!**  
-I’m a **Ai Tech Founder, Full Stack Software Engineer**, currently coding primarily in **React.js**, **.NET**, and working with **Azure Synapse**. I’m always eager to learn new technologies and expand my skill set.  
+I’m a **Ai Tech Founder & Full Stack Software Engineer**, currently coding primarily in **React.js**, **.NET**, and working with **Azure Synapse**. I’m always eager to learn new technologies and expand my skill set.  
 
 ---
 
